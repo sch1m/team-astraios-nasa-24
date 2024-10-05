@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-The Seismic Event Detector is a Python application developed to analyze seismic data stored in MiniSEED (.mseed) files. The tool employs a combination of signal processing techniques to identify significant seismic events and visualize the corresponding data. It effectively tackles the challenge of detecting seismic activities by providing a user-friendly interface that allows for efficient file selection and data analysis. This program is crucial for researchers and scientists in the field of seismology, as it aids in the real-time monitoring and analysis of seismic events, contributing to a better understanding of seismic event dynamics on Mars and the moon.
+The Seismic Event Detector is a Python application developed to analyze seismic data stored in MiniSEED (.mseed) files. The tool employs a combination of signal processing techniques to identify significant seismic events and visualize the corresponding data. It effectively tackles the challenge of detecting seismic activities by providing a user-friendly interface that allows for efficient file selection and data analysis. This program is crucial for contributing to a better understanding of seismic event dynamics on Mars and the moon.
 
 ## Project Details
 
