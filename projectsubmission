@@ -147,7 +147,7 @@ def popup():
 root.mainloop()
 
 '''
-Sources: demo_notebook provided by NASA, resources in NASA's data packet, AI assistance in IDES
+Sources: demo_notebook provided by NASA, resources in NASA's data packet, AI assistance
 Working: Adds a human element to the detection process by looking at the velocity/time seismic plot first,
 and judging the best prediction for the quake by also assessing the STA/LTA characteristic function graph.
 This program works well for most data tested on it, except for a few where sudden bursts of velocity throws it off.
