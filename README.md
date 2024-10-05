@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-The Seismic Event Detector is a Python application developed to analyze seismic data stored in MiniSEED (.mseed) files. The tool employs a combination of signal processing techniques to identify significant seismic events and visualize the corresponding data. It effectively tackles the challenge of detecting seismic activities by providing a user-friendly interface that allows for efficient file selection and data analysis. This program is crucial for contributing to a better understanding of seismic event dynamics on Mars and the moon.
+The Seismic Event Detector is Team Astraios' take on the Advanced level challenge, "Seismic Detection Across the Solar System", developed to analyze seismic data stored in MiniSEED (.mseed) files. The tool employs a combination of signal processing techniques to identify significant seismic events and visualize the corresponding data. It effectively tackles the challenge of detecting seismic activities by providing a user-friendly interface that allows for efficient file selection and data analysis. This program is crucial for contributing to a better understanding of seismic event dynamics on Mars and the moon.
 
 ## Project Details
 
@@ -30,4 +30,4 @@ The application features a simple GUI built with Tkinter, making it accessible e
   - [`Pandas`](https://pandas.pydata.org/): For data manipulation and exporting results.
 
 
-The source code is developed by Schimmel Hafeez of Team Astraios with the help of AI tools like ChatGPT and Blackbox to write code, explain the JupyterNotebook, and fix errors. The NASA-provided Jupyter Notebook was also heavily used in the making of this program. 
+The source code is developed by Schimmel Hafeez (A lvl Student) of Team Astraios with the help of AI tools like ChatGPT and Blackbox to write code, explain the JupyterNotebook, and fix errors. The NASA-provided Jupyter Notebook was also heavily used in the making of this program. 
