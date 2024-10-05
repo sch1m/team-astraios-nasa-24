@@ -151,5 +151,5 @@ Sources: demo_notebook provided by NASA, resources in NASA's data packet, AI ass
 Working: Adds a human element to the detection process by looking at the velocity/time seismic plot first,
 and judging the best prediction for the quake by also assessing the STA/LTA characteristic function graph.
 This program works well for most data tested on it, except for a few where sudden bursts of velocity throws it off.
-Made by Schimmel Hafeez of Team Atraios, NASA Space Apps 2024, Pakistan
+Made by Schimmel Hafeez of Team Atraios with the help of AI tools, NASA Space Apps 2024, Pakistan
 '''
